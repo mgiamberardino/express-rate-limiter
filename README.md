@@ -1,4 +1,4 @@
-# Agnostic Rate Limiter
+# Express Rate Limiter
 
 ## What's it?
 

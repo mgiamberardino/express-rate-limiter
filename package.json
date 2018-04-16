@@ -1,6 +1,6 @@
 {
   "name": "@mgiamberardino/express-rate-limiter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An express implementation of a Rate Limiter based on @mgiamberardino/node-rate-limiter",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
